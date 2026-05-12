@@ -1,4 +1,4 @@
-# 
+# Get the ultimate JetBrains Rider for PC | JetBrains Rider for Windows script with custom JetBrains Rider for PC | JetBrains Rider for Windows Script | code-navigation +
 
 
 
